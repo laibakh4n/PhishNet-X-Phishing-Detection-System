@@ -107,6 +107,7 @@ pip install scikit-learn transformers torch pandas numpy matplotlib streamlit sh
 
 **3. Download Datasets**
 
+Due to GitHub file size limits, datasets are not stored directly in the repository.You can find the download links inside model.txt file to download.
 Place these files in your project folder:
 - `email_clean.csv` — Combined phishing email dataset
 - `url_clean.csv` — Phishing URL dataset
