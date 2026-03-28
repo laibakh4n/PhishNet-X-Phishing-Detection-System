@@ -1,0 +1,6 @@
+Attack,Detection_Rate
+Original,86.0
+Char Substitution,99.0
+Add Spaces,100.0
+Repeated Chars,86.0
+Mixed Case,86.0
